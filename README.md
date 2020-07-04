@@ -3,7 +3,7 @@
 ## Team Members
 1. Abdulahad Khan 17112002
 2. Abhishek Kumar 17112005
-3. Ayush Kumar 17112011
+3. Ayush Kumar 17112020
 4. Shuvam Samadder 17112076
 
 ## Libraries
@@ -90,6 +90,8 @@ The fitted SIR plot for India and Italy are as following
 **NOTE:** As the data for India is very less so it's not as prominant as Italy hence the data point is less. 
 
 ## Machine Learning Prediction Model 
+
+
 
 
 
