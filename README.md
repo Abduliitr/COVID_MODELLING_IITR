@@ -91,8 +91,7 @@ The fitted SIR plot for India and Italy are as following
 
 ## Machine Learning Prediction Model 
 
-
-
+Run the ml-model.ipynb file or [Click here](https://github.com/Abduliitr/COVID_MODELLING_IITR/blob/master/ml-model.ipynb)
 
 
 
